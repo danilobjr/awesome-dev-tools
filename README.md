@@ -2,8 +2,13 @@
 
 ## Table of Contents
 
+- [Javascript](#javascript)
 - [React](#react)
   - [Hooks](#hooks)
+
+## Javascript
+
+- [ms](https://github.com/vercel/ms)
 
 ## React
 
