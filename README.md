@@ -9,7 +9,7 @@
 
 ## Javascript
 
-- [ms](https://github.com/vercel/ms)
+- [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 
 ## Typescript
 
@@ -19,5 +19,5 @@
 
 ### Hooks
 
-- [react-hookz](https://github.com/react-hookz/web)
-- [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
+- [react-hookz](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR
+- [usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript
