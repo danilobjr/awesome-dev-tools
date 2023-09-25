@@ -2,10 +2,15 @@
 
 ## Table of Contents
 
+- [Fonts](#fonts)
 - [Javascript](#javascript)
 - [Typescript](#typescript)
 - [React](#react)
   - [Hooks](#hooks)
+
+## Fonts
+
+- [Fontsource](https://fontsource.org/) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
 
 ## Javascript
 
