@@ -7,7 +7,10 @@
 - [Typescript](#typescript)
 - [React](#react)
   - [Hooks](#hooks)
+  - [Routing](#routing)
   - [UI](#ui)
+- [VS Code](#vs-code)
+- [Miscellaneous](#miscellaneous)
 
 ## Fonts
 
@@ -20,6 +23,7 @@
 ## Typescript
 
 - [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+- [Zod](https://zod.dev/) - TypeScript-first schema validation with static type inference
 
 ## React
 
@@ -29,8 +33,16 @@
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript
 - [Mantine Hooks](https://mantine.dev/getting-started/) - This is a UI library, but look for hooks in the **hooks** section!
 
+### Routing
+
+- [React Router](https://reactrouter.com/) - Declarative routing for React
+
 ### UI
 
-- [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
-- [Radix UI](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required
 - [NextUI](https://nextui.org/) - Beautiful, fast and modern React UI library
+- [Radix UI](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required
+- [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
+
+## Miscellaneous
+
+- [Script Kit](https://www.scriptkit.com/) - Shortcut to Everything. An open-source kit to optimize your developer workflow
