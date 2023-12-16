@@ -22,6 +22,7 @@
 
 ## Typescript
 
+- [ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place
 - [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [Zod](https://zod.dev/) - TypeScript-first schema validation with static type inference
 
