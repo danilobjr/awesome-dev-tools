@@ -49,3 +49,4 @@
 ## Miscellaneous
 
 - [Script Kit](https://www.scriptkit.com/) - Shortcut to Everything. An open-source kit to optimize your developer workflow
+- [Typescript to Zod](https://transform.tools/typescript-to-zod) - Convert TypeScript type to Zod schema (their other tools: https://transform.tools/)
