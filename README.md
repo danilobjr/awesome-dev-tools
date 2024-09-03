@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Bash](#bash)
 - [Fonts](#fonts)
 - [Javascript](#javascript)
 - [Typescript](#typescript)
@@ -11,6 +12,10 @@
   - [UI](#ui)
 - [VS Code](#vs-code)
 - [Miscellaneous](#miscellaneous)
+
+## Bash
+
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
 ## Fonts
 
