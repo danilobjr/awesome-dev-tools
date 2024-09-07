@@ -6,6 +6,7 @@
 - [Fonts](#fonts)
 - [Node](#node)
   - [Functional Programming](#functional-programming)
+  - [Git](#git)
   - [Package Managers](#package-managers)
   - [Types](#types)
   - [Utilities](#utilities)
@@ -30,6 +31,10 @@
 
 - [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript
 - [io-ts](https://gcanti.github.io/io-ts/) - Runtime type system for IO decoding/encoding
+
+#### Git
+
+- [get-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
   
 #### Package Managers
 
