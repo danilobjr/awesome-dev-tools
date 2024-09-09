@@ -7,6 +7,7 @@
 - [Node](#node)
   - [Functional Programming](#functional-programming)
   - [Git](#git)
+  - [Images](#images)
   - [Package Managers](#package-managers)
   - [Types](#types)
   - [Utilities](#utilities)
