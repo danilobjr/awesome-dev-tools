@@ -5,6 +5,7 @@
 - [Bash](#bash)
 - [Fonts](#fonts)
 - [Node](#node)
+  - [DOCs](#docs)
   - [Functional Programming](#functional-programming)
   - [Git](#git)
   - [Images](#images)
@@ -27,6 +28,10 @@
 - [Fontsource](https://fontsource.org/) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
 
 ### Node
+
+#### DOCs
+
+- [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) - Utility to generate a table of contents from an mdast tree
 
 #### Functional Programming
 
