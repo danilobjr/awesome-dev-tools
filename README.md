@@ -16,6 +16,7 @@
   - [Hooks](#hooks)
   - [Routing](#routing)
   - [UI](#ui)
+  - [Utility](#utility)
 - [VS Code](#vs-code)
 - [Miscellaneous](#miscellaneous)
 
