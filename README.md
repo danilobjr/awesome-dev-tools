@@ -32,6 +32,10 @@
 #### DOCs
 
 - [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) - Utility to generate a table of contents from an mdast tree
+- [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the [unifiedjs](https://github.com/unifiedjs) collective
+- [unifiedjs](https://github.com/unifiedjs) - Content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more
+- [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by [unifiedjs](https://github.com/unifiedjs)
+- [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) - [Unist](https://github.com/syntax-tree/unist) utility to visit nodes
 
 #### Functional Programming
 
