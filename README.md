@@ -90,6 +90,10 @@
 
 - [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 
+### Typescript
+
+- [@total-typescript/tsconfig] - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet?ck_subscriber_id=2457903909)
+
 ### VS Code
 
 TODO: add extensions here
