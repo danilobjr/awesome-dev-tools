@@ -32,6 +32,7 @@
 
 #### DOCs
 
+- [contentlayer](https://github.com/contentlayerdev/contentlayer) - It's a content SDK that validates and transforms your content into type-safe JSON data you can easily import into your application's pages
 - [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) - Utility to generate a table of contents from an mdast tree
 - [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the [unifiedjs](https://github.com/unifiedjs) collective
 - [unifiedjs](https://github.com/unifiedjs) - Content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more
