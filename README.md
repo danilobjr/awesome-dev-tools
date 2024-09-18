@@ -17,6 +17,7 @@
   - [Routing](#routing)
   - [UI](#ui)
   - [Utility](#utility)
+- [Typescript](#typescript)
 - [VS Code](#vs-code)
 - [Miscellaneous](#miscellaneous)
 
