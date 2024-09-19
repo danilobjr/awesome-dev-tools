@@ -4,6 +4,7 @@
 
 - [Bash](#bash)
 - [Fonts](#fonts)
+- [Icons](#icons)
 - [Node](#node)
   - [DOCs](#docs)
   - [Functional Programming](#functional-programming)
@@ -28,6 +29,10 @@
 ### Fonts
 
 - [Fontsource](https://fontsource.org/) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
+
+### Icons
+
+- [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
 ### Node
 
