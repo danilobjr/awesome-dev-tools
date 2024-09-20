@@ -18,6 +18,7 @@
   - [Routing](#routing)
   - [UI](#ui)
   - [Utility](#utility)
+- [Tailwind](#tailwind)
 - [Typescript](#typescript)
 - [VS Code](#vs-code)
 - [Miscellaneous](#miscellaneous)
@@ -95,6 +96,10 @@
 #### Utility
 
 - [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
+
+### Tailwind
+
+- [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate?tab=readme-ov-file#prefers-reduced-motion) A Tailwind CSS plugin for creating beautiful animations
 
 ### Typescript
 
