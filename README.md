@@ -99,7 +99,8 @@
 
 ### Tailwind
 
-- [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate?tab=readme-ov-file#prefers-reduced-motion) A Tailwind CSS plugin for creating beautiful animations
+- [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate?tab=readme-ov-file#prefers-reduced-motion) - A Tailwind CSS plugin for creating beautiful animations
+- [tailwindcss-scoped-preflight](https://github.com/Roman86/tailwindcss-scoped-preflight) - To avoid style conflicts (CSS collisions/interference side effects) when using Tailwind CSS with other UI libraries like Antd, Vuetify etc
 
 ### Typescript
 
