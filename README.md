@@ -33,7 +33,13 @@
 
 ### Icons
 
+- [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [iconify](https://iconify.design/) - All popular icon sets, one framework. Over 200,000 open source vector icons
+- [keen-icons](https://keenthemes.com/keenicons) - 560+ high quality icons in 3 perfect styles
+- [lucide](https://lucide.dev/icons/) - Beautiful & consistent icons. Made by the community
+- [react-icons](https://react-icons.github.io/react-icons/) - SVG react icons of popular icon packs
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [tabler-icons](https://tabler.io/icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects
 
 ### Node
 
