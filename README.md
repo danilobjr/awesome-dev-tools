@@ -110,12 +110,12 @@
 
 ### Tailwind
 
-- [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate?tab=readme-ov-file#prefers-reduced-motion) - A Tailwind CSS plugin for creating beautiful animations
+- [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [tailwindcss-scoped-preflight](https://github.com/Roman86/tailwindcss-scoped-preflight) - To avoid style conflicts (CSS collisions/interference side effects) when using Tailwind CSS with other UI libraries like Antd, Vuetify etc
 
 ### Typescript
 
-- [@total-typescript/tsconfig] - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet?ck_subscriber_id=2457903909)
+- [@total-typescript/tsconfig] - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)
 
 ### VS Code
 
