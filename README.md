@@ -13,6 +13,7 @@
   - [Package Managers](#package-managers)
   - [Types](#types)
   - [Utilities](#utilities)
+- [Prettier Plugins](#prettier-plugins)
 - [React](#react)
   - [Hooks](#hooks)
   - [Routing](#routing)
@@ -80,6 +81,10 @@
 #### Utilities
  
 - [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
+
+### Prettier Plugins
+
+- [@trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
 
 ### React
 
