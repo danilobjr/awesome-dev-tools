@@ -21,6 +21,7 @@
   - [Utility](#utility)
 - [Tailwind](#tailwind)
 - [Typescript](#typescript)
+- [Version Managers](#version-managers)
 - [VS Code](#vs-code)
 - [Miscellaneous](#miscellaneous)
 
@@ -115,7 +116,11 @@
 
 ### Typescript
 
-- [@total-typescript/tsconfig] - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)
+- [@total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)
+
+### Version Managers
+
+- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 ### VS Code
 
