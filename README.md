@@ -117,6 +117,7 @@
 ### Typescript
 
 - [@total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)
+- [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference
 
 ### Version Managers
 
