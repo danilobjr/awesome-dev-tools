@@ -127,7 +127,7 @@
 
 ### VS Code
 
-TODO: add extensions here
+- [vs-asdf](https://github.com/nguyenngoclongdev/vs-asdf) - The Multiple Runtime Version Manager
 
 ### Miscellaneous
 
