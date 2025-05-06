@@ -116,6 +116,7 @@
 
 - [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [tailwindcss-scoped-preflight](https://github.com/Roman86/tailwindcss-scoped-preflight) - To avoid style conflicts (CSS collisions/interference side effects) when using Tailwind CSS with other UI libraries like Antd, Vuetify etc
+- [tailwind-gradient-mask-image](https://github.com/juhanakristian/tailwind-gradient-mask-image) - Tailwind CSS plugin for adding mask-image with a linear-gradient on a HTML element
 
 ### Typescript
 
