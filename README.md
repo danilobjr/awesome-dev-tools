@@ -3,6 +3,8 @@
 ### Table of Contents
 
 - [Bash](#bash)
+- [Editor](#editor)
+  - [VS Code](#vs-code)
 - [Fonts](#fonts)
 - [Git](#git)
 - [Icons](#icons)
@@ -23,7 +25,6 @@
 - [Tailwind](#tailwind)
 - [Typescript](#typescript)
 - [Version Managers](#version-managers)
-- [VS Code](#vs-code)
 - [Miscellaneous](#miscellaneous)
 
 ### Bash
@@ -32,13 +33,29 @@
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 
+---
+
+### Editor
+
+- [prettier](https://prettier.io/) - An opinionated code formatter
+
+#### VS Code
+
+- [vs-asdf](https://github.com/nguyenngoclongdev/vs-asdf) - The Multiple Runtime Version Manager
+
+---
+
 ### Fonts
 
 - [Fontsource](https://fontsource.org/) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
 
+---
+
 ### Git
 
 - [gitignore](https://github.com/msfeldstein/gitignore) - Automatically fetch github's excellent .gitignore files for any of your new projects
+
+---
 
 ### Icons
 
@@ -134,7 +151,7 @@
 
 ### VS Code
 
-- [vs-asdf](https://github.com/nguyenngoclongdev/vs-asdf) - The Multiple Runtime Version Manager
+
 
 ### Miscellaneous
 
