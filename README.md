@@ -27,6 +27,8 @@
 - [Version Managers](#version-managers)
 - [Miscellaneous](#miscellaneous)
 
+---
+
 ### Bash
 
 - [eza](https://github.com/eza-community/eza) - A modern alternative to `ls`
