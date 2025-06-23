@@ -30,6 +30,7 @@
 
 - [eza](https://github.com/eza-community/eza) - A modern alternative to `ls`
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
+- [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 
 ### Fonts
 
