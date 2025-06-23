@@ -4,6 +4,7 @@
 
 - [Bash](#bash)
 - [Fonts](#fonts)
+- [Git](#git)
 - [Icons](#icons)
 - [Node](#node)
   - [DOCs](#docs)
@@ -33,6 +34,10 @@
 ### Fonts
 
 - [Fontsource](https://fontsource.org/) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
+
+### Git
+
+- [gitignore](https://github.com/msfeldstein/gitignore) - Automatically fetch github's excellent .gitignore files for any of your new projects
 
 ### Icons
 
