@@ -157,9 +157,9 @@
 ### Tailwind
 
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
-- DEPRECATED - ~[tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts~ (tw v3 only)
+- [tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
-- [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
+- DEPRECATED - ~[tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations~ (tw v3 only)
 - [tailwindcss-scoped-preflight](https://github.com/Roman86/tailwindcss-scoped-preflight) - To avoid style conflicts (CSS collisions/interference side effects) when using Tailwind CSS with other UI libraries like Antd, Vuetify etc
 - [tailwind-gradient-mask-image](https://github.com/juhanakristian/tailwind-gradient-mask-image) - Tailwind CSS plugin for adding mask-image with a linear-gradient on a HTML element
 - [tw-animate-css](https://github.com/wombosvideo/tw-animate-css) - TailwindCSS v4.0 compatible replacement for [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate)
