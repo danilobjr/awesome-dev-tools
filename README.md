@@ -58,7 +58,7 @@
 
 ### Fonts
 
-- [Fontsource](https://fontsource.org/) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
+- [fontsource](https://fontsource.org/docs/getting-started/introduction) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
 
 ---
 
