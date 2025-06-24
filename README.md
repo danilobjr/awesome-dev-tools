@@ -181,5 +181,6 @@
 
 ### Miscellaneous
 
+- [isbot](https://github.com/omrilotan/isbot) - Detect bots/crawlers/spiders using the user agent string
 - [Script Kit](https://www.scriptkit.com/) - Shortcut to Everything. An open-source kit to optimize your developer workflow
 
