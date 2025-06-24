@@ -40,8 +40,8 @@
 
 ### CSS
 
-[clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally
-[cva](https://github.com/joe-bell/cva) - Class Variance Authority (it works seamlessly with [Tailwindcss](#tailwind))
+- [clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally
+- [cva](https://github.com/joe-bell/cva) - Class Variance Authority (it works seamlessly with [Tailwindcss](#tailwind))
 
 ---
 
