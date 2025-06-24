@@ -3,6 +3,7 @@
 ### Table of Contents
 
 - [Bash](#bash)
+- [CSS](#css)
 - [Editor](#editor)
   - [VS Code](#vs-code)
 - [Fonts](#fonts)
@@ -34,6 +35,12 @@
 - [eza](https://github.com/eza-community/eza) - A modern alternative to `ls`
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
+
+---
+
+### CSS
+
+[cva](https://github.com/joe-bell/cva) - Class Variance Authority (it works seamlessly with [Tailwindcss](#tailwind))
 
 ---
 
@@ -139,6 +146,7 @@
 
 ### Tailwind
 
+- [tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
 - [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [tailwindcss-scoped-preflight](https://github.com/Roman86/tailwindcss-scoped-preflight) - To avoid style conflicts (CSS collisions/interference side effects) when using Tailwind CSS with other UI libraries like Antd, Vuetify etc
 - [tailwind-gradient-mask-image](https://github.com/juhanakristian/tailwind-gradient-mask-image) - Tailwind CSS plugin for adding mask-image with a linear-gradient on a HTML element
@@ -150,10 +158,6 @@
 ### Version Managers
 
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-
-### VS Code
-
-
 
 ### Miscellaneous
 
