@@ -51,6 +51,7 @@
 #### VS Code
 
 - [vs-asdf](https://github.com/nguyenngoclongdev/vs-asdf) - The Multiple Runtime Version Manager
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
 
 ---
 
@@ -75,6 +76,8 @@
 - [react-icons](https://react-icons.github.io/react-icons/) - SVG react icons of popular icon packs
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [tabler-icons](https://tabler.io/icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects
+
+---
 
 ### Node
 
@@ -118,9 +121,14 @@
  
 - [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 
+---
+
 ### Prettier Plugins
 
 - [@trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
+
+---
 
 ### React
 
@@ -148,7 +156,9 @@
 
 ### Tailwind
 
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
 - DEPRECATED - ~[tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts~ (tw v3 only)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
 - [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [tailwindcss-scoped-preflight](https://github.com/Roman86/tailwindcss-scoped-preflight) - To avoid style conflicts (CSS collisions/interference side effects) when using Tailwind CSS with other UI libraries like Antd, Vuetify etc
 - [tailwind-gradient-mask-image](https://github.com/juhanakristian/tailwind-gradient-mask-image) - Tailwind CSS plugin for adding mask-image with a linear-gradient on a HTML element
@@ -160,9 +170,13 @@
 
 - [@total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)
 
+---
+
 ### Version Managers
 
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+---
 
 ### Miscellaneous
 
