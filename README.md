@@ -144,12 +144,17 @@
 
 - [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 
+---
+
 ### Tailwind
 
-- [tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
+- DEPRECATED - ~[tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts~ (tw v3 only)
 - [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [tailwindcss-scoped-preflight](https://github.com/Roman86/tailwindcss-scoped-preflight) - To avoid style conflicts (CSS collisions/interference side effects) when using Tailwind CSS with other UI libraries like Antd, Vuetify etc
 - [tailwind-gradient-mask-image](https://github.com/juhanakristian/tailwind-gradient-mask-image) - Tailwind CSS plugin for adding mask-image with a linear-gradient on a HTML element
+- [tw-animate-css](https://github.com/wombosvideo/tw-animate-css) - TailwindCSS v4.0 compatible replacement for [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate)
+
+---
 
 ### Typescript
 
