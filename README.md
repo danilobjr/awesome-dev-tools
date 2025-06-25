@@ -58,6 +58,7 @@
 
 ### Fonts
 
+- [fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
 - [fontsource](https://fontsource.org/docs/getting-started/introduction) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
 
 ---
