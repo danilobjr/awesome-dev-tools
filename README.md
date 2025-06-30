@@ -181,6 +181,12 @@
 
 ---
 
+### Versioning
+
+- [changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+
+---
+
 ### Miscellaneous
 
 - [isbot](https://github.com/omrilotan/isbot) - Detect bots/crawlers/spiders using the user agent string
