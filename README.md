@@ -26,6 +26,7 @@
 - [Tailwind](#tailwind)
 - [Typescript](#typescript)
 - [Version Managers](#version-managers)
+- [Versioning](#versioning)
 - [Miscellaneous](#miscellaneous)
 
 ---
