@@ -17,6 +17,7 @@
   - [Package Managers](#package-managers)
   - [Types](#types)
   - [Utilities](#utilities)
+- [Pre](#pre)
 - [Prettier Plugins](#prettier-plugins)
 - [React](#react)
   - [Hooks](#hooks)
@@ -127,6 +128,12 @@
 
 ---
 
+### Pre
+
+- [shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
+
+---
+
 ### Prettier Plugins
 
 - [@trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
@@ -192,4 +199,3 @@
 
 - [isbot](https://github.com/omrilotan/isbot) - Detect bots/crawlers/spiders using the user agent string
 - [Script Kit](https://www.scriptkit.com/) - Shortcut to Everything. An open-source kit to optimize your developer workflow
-
