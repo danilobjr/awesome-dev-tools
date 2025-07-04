@@ -23,7 +23,7 @@
   - [Hooks](#hooks)
   - [Routing](#routing)
   - [UI](#ui)
-  - [Utility](#utility)
+  - [Components](#components)
 - [Tailwind](#tailwind)
 - [Typescript](#typescript)
 - [Version Managers](#version-managers)
@@ -151,17 +151,18 @@
 
 #### Routing
 
-- [React Router](https://reactrouter.com/) - Declarative routing for React
+- [react-router](https://reactrouter.com/) - Declarative routing for React
 
 #### UI
 
-- [NextUI](https://nextui.org/) - Beautiful, fast and modern React UI library
-- [Radix UI](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required
+- [heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [radix-ui](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required
 - [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
 
-#### Utility
+#### Compoents
 
 - [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
+- [https://github.com/emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React
 
 ---
 
