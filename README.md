@@ -162,7 +162,7 @@
 #### Components
 
 - [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
-- [https://github.com/emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React
+- [vaul](https://github.com/emilkowalski/vaul) - A drawer component for React
 
 ---
 
