@@ -159,7 +159,7 @@
 - [radix-ui](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required
 - [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
 
-#### Compoents
+#### Components
 
 - [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [https://github.com/emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React
