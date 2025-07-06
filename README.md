@@ -136,7 +136,7 @@
 
 ### Prettier Plugins
 
-- [@trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
+- [@ianvs/prettier-plugin-sort-imports](https://github.com/ianvs/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
 
 ---
