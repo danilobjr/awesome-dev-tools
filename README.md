@@ -127,6 +127,7 @@
  
 - [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
+- [remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript
 
 ---
 
@@ -163,7 +164,7 @@
 
 #### Components
 
-- [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
+- [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable **Or just use CSS: text-wrap: balance**
 - [vaul](https://github.com/emilkowalski/vaul) - A drawer component for React
 
 ---
