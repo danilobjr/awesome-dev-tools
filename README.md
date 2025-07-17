@@ -26,6 +26,7 @@
   - [Components](#components)
 - [Tailwind](#tailwind)
 - [Typescript](#typescript)
+- [shadcn-ui](#shadcn-ui)
 - [Version Managers](#version-managers)
 - [Versioning](#versioning)
 - [Miscellaneous](#miscellaneous)
@@ -160,10 +161,11 @@
 
 #### UI
 
+More UI stuff on [shadcn-ui](#shadcn-ui) section.
+
 - [heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React
 - [radix-ui](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required
-- [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
 
 #### Components
 
@@ -188,6 +190,16 @@
 
 - [@total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)
 - [tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
+
+---
+
+### shadcn-ui
+
+- [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
+
+#### Extensions
+
+- [originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React
 
 ---
 
