@@ -127,6 +127,8 @@
  
 - [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
+- [radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
+- [rambda](https://github.com/selfrefactor/rambda) - Typescript focused FP library similar to Remeda and Ramda
 - [remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript
 
 ---
