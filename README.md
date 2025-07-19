@@ -200,6 +200,7 @@ More UI stuff on [shadcn-ui](#shadcn-ui) section.
 #### Extensions
 
 - [originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React
+- [shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open source component collection , that extends your ui library , built using shadcn component. _Highlights: Multi Select, Smart DateTime Input, Tags Input, File Upload_.
 
 ---
 
