@@ -24,9 +24,9 @@
   - [Routing](#routing)
   - [UI](#ui)
   - [Components](#components)
+- [shadcn-ui](#shadcn-ui)
 - [Tailwind](#tailwind)
 - [Typescript](#typescript)
-- [shadcn-ui](#shadcn-ui)
 - [Version Managers](#version-managers)
 - [Versioning](#versioning)
 - [Miscellaneous](#miscellaneous)
@@ -174,6 +174,21 @@ More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 ---
 
+### shadcn-ui
+
+- [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
+
+#### Extensions
+
+- [aceternity-ui](https://ui.aceternity.com) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations. _Highlights: Bento Grid, Card Stack, Code Block, Evervault Card, File Upload, Glowing Effect, Link Preview, Placeholders and Vanish Input, Sidebar, Signup Form, Stateful Button, and Tracing Beam_.
+- [kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components. _Highlights: Dialog Stack_.
+- [motion-primitives](https://github.com/ibelick/motion-primitives) - 👀 UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source. _Highlights: almost everything_.
+- [originui](https://github.com/origin-space/originui) - 👀 Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React. _Highlights: Avatar, Badge, Banner, Breadcrumb, Button, Calendar/Date picker, Checkbox, Dialog, Dropdown, File upload, Event calendar, Input (mask, tags, with kbd, etc), Notification, Pagination, Popover (tour, notifications, steps, etc), Radio, Select (includes multiselect, listbox, etc), Slider, Stepper, Switch, Table, Tabs, Textarea (includes characters left counter, autogrowing), Timeline, and Tooltip_.
+- [https://github.com/fgrreloaded/rigidui](https://github.com/fgrreloaded/rigidui) - Building enterprise-grade React components with uncompromising quality. _Highlights: **Draggable Dashboard**, File Uploader, **Guided Tour**, File Explorer, **Image Loader**, Infinite Scroll, **Location Picker**, **Multi-Step Form**, **Password Strength Meter**, Smart Form, and Smart Search_.
+- [shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open source component collection , that extends your ui library , built using shadcn component. _Highlights: Multi Select, Smart DateTime Input, Tags Input, File Upload_.
+
+---
+
 ### Tailwind
 
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
@@ -190,21 +205,6 @@ More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 - [@total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)
 - [tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
-
----
-
-### shadcn-ui
-
-- [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
-
-#### Extensions
-
-- [aceternity-ui](https://ui.aceternity.com) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations. _Highlights: Bento Grid, Card Stack, Code Block, Evervault Card, File Upload, Glowing Effect, Link Preview, Placeholders and Vanish Input, Sidebar, Signup Form, Stateful Button, and Tracing Beam_.
-- [kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components. _Highlights: Dialog Stack_.
-- [motion-primitives](https://github.com/ibelick/motion-primitives) - 👀 UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source. _Highlights: almost everything_.
-- [originui](https://github.com/origin-space/originui) - 👀 Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React. _Highlights: Avatar, Badge, Banner, Breadcrumb, Button, Calendar/Date picker, Checkbox, Dialog, Dropdown, File upload, Event calendar, Input (mask, tags, with kbd, etc), Notification, Pagination, Popover (tour, notifications, steps, etc), Radio, Select (includes multiselect, listbox, etc), Slider, Stepper, Switch, Table, Tabs, Textarea (includes characters left counter, autogrowing), Timeline, and Tooltip_.
-- [https://github.com/fgrreloaded/rigidui](https://github.com/fgrreloaded/rigidui) - Building enterprise-grade React components with uncompromising quality. _Highlights: **Draggable Dashboard**, File Uploader, **Guided Tour**, File Explorer, **Image Loader**, Infinite Scroll, **Location Picker**, **Multi-Step Form**, **Password Strength Meter**, Smart Form, and Smart Search_.
-- [shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open source component collection , that extends your ui library , built using shadcn component. _Highlights: Multi Select, Smart DateTime Input, Tags Input, File Upload_.
 
 ---
 
