@@ -169,6 +169,7 @@ More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 #### Components
 
+- [cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component
 - [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable **Or just use CSS: text-wrap: balance**
 - [vaul](https://github.com/emilkowalski/vaul) - A drawer component for React
 
