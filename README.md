@@ -69,7 +69,7 @@
 
 ### Git
 
-- [gitignore](https://github.com/msfeldstein/gitignore) - Automatically fetch github's excellent .gitignore files for any of your new projects
+- [gitignore](https://github.com/msfeldstein/gitignore) - Automatically fetch github's excellent .gitignore files for any of your new projects. [Official gitignore repo](https://github.com/github/gitignore).
 
 ---
 
