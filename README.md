@@ -69,7 +69,8 @@
 
 ### Git
 
-- [gitignore](https://github.com/msfeldstein/gitignore) - Automatically fetch github's excellent .gitignore files for any of your new projects. [Official gitignore repo](https://github.com/github/gitignore).
+- [gitignore](https://github.com/msfeldstein/gitignore) - Automatically fetch github's excellent .gitignore files for any of your new projects. [Official gitignore repo](https://github.com/github/gitignore)
+- (husky)[https://github.com/typicode/husky) - Modern native Git hooks made easy
 
 ---
 
