@@ -9,6 +9,7 @@
 - [Fonts](#fonts)
 - [Git](#git)
 - [Icons](#icons)
+- [Lint](#lint)
 - [Node](#node)
   - [DOCs](#docs)
   - [Functional Programming](#functional-programming)
@@ -83,6 +84,12 @@
 - [react-icons](https://react-icons.github.io/react-icons/) - SVG react icons of popular icon packs
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [tabler-icons](https://tabler.io/icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects
+
+---
+
+### Lint
+
+- [lint-staged](https://github.com/lint-staged/lint-staged) - Run tasks like formatters and linters against staged git files and don't let 💩 slip into your code base
 
 ---
 
