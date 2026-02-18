@@ -172,7 +172,6 @@
 More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 - [heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React
 - [radix-ui](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required
 
 #### Components
