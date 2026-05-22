@@ -1,7 +1,8 @@
 # awesome-dev-tools
 
-### Table of Contents
+## Table of Contents
 
+- [AI](#ai)
 - [Bash](#bash)
 - [CSS](#css)
 - [Editor](#editor)
@@ -34,7 +35,19 @@
 
 ---
 
-### Bash
+## AI
+
+### Harness
+
+- [opencode](https://opencode.ai/) - The open source AI coding agent
+
+### Skills
+
+- [skills](https://www.skills.sh) - The Open Agent Skills Ecosystem
+
+---
+
+## Bash
 
 - [eza](https://github.com/eza-community/eza) - A modern alternative to `ls`
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
@@ -42,25 +55,25 @@
 
 ---
 
-### CSS
+## CSS
 
 - [clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally
 - [cva](https://github.com/joe-bell/cva) - Class Variance Authority (it works seamlessly with [Tailwindcss](#tailwind))
 
 ---
 
-### Editor
+## Editor
 
 - [prettier](https://prettier.io/) - An opinionated code formatter
 
-#### VS Code
+### VS Code
 
 - [vs-asdf](https://github.com/nguyenngoclongdev/vs-asdf) - The Multiple Runtime Version Manager
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
 
 ---
 
-### Fonts
+## Fonts
 
 - [fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
 - [fontsource](https://fontsource.org/docs/getting-started/introduction) - Fontsource is a collection of open-source fonts that are packaged into individual NPM packages for self-hosting in your web applications
@@ -68,14 +81,14 @@
 
 ---
 
-### Git
+## Git
 
 - [gitignore](https://github.com/msfeldstein/gitignore) - Automatically fetch github's excellent .gitignore files for any of your new projects. [Official gitignore repo](https://github.com/github/gitignore)
 - [husky](https://github.com/typicode/husky) - Modern native Git hooks made easy
 
 ---
 
-### Icons
+## Icons
 
 - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [iconify](https://iconify.design/) - All popular icon sets, one framework. Over 200,000 open source vector icons
@@ -87,15 +100,15 @@
 
 ---
 
-### Lint
+## Lint
 
 - [lint-staged](https://github.com/lint-staged/lint-staged) - Run tasks like formatters and linters against staged git files and don't let 💩 slip into your code base
 
 ---
 
-### Node
+## Node
 
-#### DOCs
+### DOCs
 
 - [contentlayer](https://github.com/contentlayerdev/contentlayer) - It's a content SDK that validates and transforms your content into type-safe JSON data you can easily import into your application's pages
 - [fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js
@@ -105,34 +118,34 @@
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by [unifiedjs](https://github.com/unifiedjs)
 - [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) - [Unist](https://github.com/syntax-tree/unist) utility to visit nodes
 
-#### Functional Programming
+### Functional Programming
 
 - [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript
 - [io-ts](https://gcanti.github.io/io-ts/) - Runtime type system for IO decoding/encoding
 - [ramda](https://github.com/ramda/ramda) - Practical functional Javascript
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference
 
-#### Git
+### Git
 
 - [get-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
-#### Images
+### Images
 
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library
   
-#### Package Managers
+### Package Managers
 
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [yarn](https://github.com/yarnpkg/berry) - Active development trunk for Yarn
 
-#### Types
+### Types
 
 - [ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place
 - [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [Typescript to Zod](https://transform.tools/typescript-to-zod) - Convert TypeScript type to Zod schema (their other tools: https://transform.tools/)
   
-#### Utilities
+### Utilities
  
 - [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
@@ -142,39 +155,39 @@
 
 ---
 
-### Pre
+## Pre
 
 - [shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 
 ---
 
-### Prettier Plugins
+## Prettier Plugins
 
 - [@ianvs/prettier-plugin-sort-imports](https://github.com/ianvs/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
 
 ---
 
-### React
+## React
 
-#### Hooks
+### Hooks
 
 - [react-hookz](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript
 - [Mantine Hooks](https://mantine.dev/getting-started/) - This is a UI library, but look for hooks in the **hooks** section!
 
-#### Routing
+### Routing
 
 - [react-router](https://reactrouter.com/) - Declarative routing for React
 
-#### UI
+### UI
 
 More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 - [heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [radix-ui](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required
 
-#### Components
+### Components
 
 - [cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component
 - [react-wraper-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable **Or just use CSS: text-wrap: balance**
@@ -182,11 +195,11 @@ More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 ---
 
-### shadcn-ui
+## shadcn-ui
 
 - [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
 
-#### Extensions
+### Extensions
 
 - [aceternity-ui](https://ui.aceternity.com) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations. _Highlights: Bento Grid, Card Stack, Code Block, Evervault Card, File Upload, Glowing Effect, Link Preview, Placeholders and Vanish Input, Sidebar, Signup Form, Stateful Button, and Tracing Beam_.
 - [kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components. _Highlights: Dialog Stack_.
@@ -197,7 +210,7 @@ More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 ---
 
-### Tailwind
+## Tailwind
 
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order
 - [tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
@@ -209,26 +222,27 @@ More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 ---
 
-### Typescript
+## Typescript
 
 - [@total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json. Based on [TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)
 - [tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
 ---
 
-### Version Managers
+## Version Managers
 
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 ---
 
-### Versioning
+## Versioning
 
 - [changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 
 ---
 
-### Miscellaneous
+## Miscellaneous
 
 - [isbot](https://github.com/omrilotan/isbot) - Detect bots/crawlers/spiders using the user agent string
 - [Script Kit](https://www.scriptkit.com/) - Shortcut to Everything. An open-source kit to optimize your developer workflow
+- [Verdaccio](https://www.verdaccio.org/) - A lightweight Node.js private proxy registry
