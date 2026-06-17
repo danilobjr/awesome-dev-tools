@@ -120,9 +120,11 @@
 
 ### Functional Programming
 
+- [alchemy](https://github.com/tecnomancy/alchemy) - Functional programming primitives for TypeScript — every type inferred, zero dependencies
 - [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript
 - [io-ts](https://gcanti.github.io/io-ts/) - Runtime type system for IO decoding/encoding
 - [ramda](https://github.com/ramda/ramda) - Practical functional Javascript
+- [ts-belt](https://github.com/mobily/ts-belt) - 🔧 Fast, modern, and practical utility library for FP in TypeScript
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference
 
 ### Git
