@@ -49,6 +49,9 @@
 
 ### Tools
 
+- [axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI
+- [lavish](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts
+- [no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes. Kill all the slop. Raise clean PR
 - [OpenSuperWhisper](https://github.com/starmel/OpenSuperWhisper) - macOS dictation app
 
 ---
