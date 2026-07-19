@@ -45,6 +45,10 @@
 
 - [skills](https://www.skills.sh) - The Open Agent Skills Ecosystem
 
+### Tools
+
+- [OpenSuperWhisper](https://github.com/starmel/OpenSuperWhisper) - macOS dictation app
+
 ---
 
 ## Bash
