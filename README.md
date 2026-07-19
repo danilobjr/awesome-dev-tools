@@ -43,6 +43,7 @@
 
 ### Skills
 
+- [Danilo's skills](https://github.com/danilobjr/skills) - My reusable agent skills collection
 - [Matt Pocock's skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory
 - [skills](https://www.skills.sh) - The Open Agent Skills Ecosystem
 
