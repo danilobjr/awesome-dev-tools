@@ -210,6 +210,12 @@ More UI stuff on [shadcn-ui](#shadcn-ui) section.
 
 - [shadcn/ui](https://ui.shadcn.com/docs/components/input) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
 
+### Blocks
+
+- [shadcndesign](https://www.shadcndesign.com/pro-blocks) - Design & ship shadcn/ui projects faster.
+- [shadcnstudio](https://shadcnstudio.com/blocks) - Build Futuristic UIs at Warp Speed with Awesome Shadcn UI.
+- [shadcnblocks](https://www.shadcnblocks.com/blocks) - The ultimate block set for Shadcn UI & Tailwind.
+- 
 ### Extensions
 
 - [aceternity-ui](https://ui.aceternity.com) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations. _Highlights: Bento Grid, Card Stack, Code Block, Evervault Card, File Upload, Glowing Effect, Link Preview, Placeholders and Vanish Input, Sidebar, Signup Form, Stateful Button, and Tracing Beam_.
