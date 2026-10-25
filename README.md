@@ -51,6 +51,7 @@
 
 - [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA agent for natural-language web and mobile tests with persistent test memory, a CLI, and an MCP server
 - [axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI
+- [deed.page](https://deed.page) - Publish HTML artifacts and static folders from an agent to a permanent public URL with one curl request or a remote MCP server, no account
 - [lavish](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts
 - [no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes. Kill all the slop. Raise clean PR
 - [OpenSuperWhisper](https://github.com/starmel/OpenSuperWhisper) - macOS dictation app
