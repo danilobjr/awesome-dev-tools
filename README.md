@@ -61,6 +61,7 @@
 
 - [eza](https://github.com/eza-community/eza) - A modern alternative to `ls`
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
+- [ShellCheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 
 ---
