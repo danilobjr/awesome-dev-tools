@@ -41,6 +41,10 @@
 
 - [opencode](https://opencode.ai/) - The open source AI coding agent
 
+### Orchestration
+
+- [firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew
+
 ### Skills
 
 - [Danilo's skills](https://github.com/danilobjr/skills) - My reusable agent skills collection
